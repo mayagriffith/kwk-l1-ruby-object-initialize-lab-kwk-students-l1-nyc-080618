@@ -12,3 +12,4 @@ class Person
 
 end
 
+Person.new = ('Beyonce')
