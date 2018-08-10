@@ -21,5 +21,4 @@ class Dog
 
 end
 
-dogs = Dog.new('Fido','Pug')
-puts Dog.new
+dogs = Dog.new
