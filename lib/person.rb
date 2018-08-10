@@ -12,4 +12,4 @@ class Person
 
 end
 
-nameone = 
+nameone = Person.new
